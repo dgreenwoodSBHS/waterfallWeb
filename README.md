@@ -1,8 +1,10 @@
 # waterfallWeb
 
-ed
-josh white
+MEMBERS:
+
+Ed
+Josh White
 Ronan
 T-J
-will
-Josh hansen
+Will
+Josh Hansen
